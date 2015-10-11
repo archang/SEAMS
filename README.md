@@ -1,5 +1,5 @@
 # SEAMS
-### Smart Emergency Alert &amp Monitoring System
+### Smart Emergency Alert and Monitoring System
 https://docs.google.com/presentation/d/1NitohiGjYeXeJdz5qjj-PC42TEjij9u2CllShMYydcg/edit#slide=id.p
 
 ###Description
