@@ -4,12 +4,20 @@ https://docs.google.com/presentation/d/1NitohiGjYeXeJdz5qjj-PC42TEjij9u2CllShMYy
 
 ###Description
 
-SEAMS is a machine-learning driven wearable application for primarily senior citizens who live alone. It runs on Intel Edison with Sparkfun Muscle Sensors, accelerometers, and other sensors with the aim of alerting senior citizens' remote family and other loved ones as soon as an accident is recorded on the wearable. 
+SEAMS is a machine-learning driven wearable application for primarily senior citizens who live alone. It runs on Intel Edison with Sparkfun Muscle Sensors, accelerometers, and other sensors with the aim of alerting senior citizens' remote family and other loved ones as soon as an incident (defined below) is recorded on the wearable. The wearable also has support for tripping an audible alarm in the vicinity when an incident is tripped.
 
-Currently, SEAMS has support for accidents of the following kind:
+Currently, SEAMS has support for the following:
 - identifying when a person falls/trips
-- undergoes a tonic clonic seizure (total body seizure)
-- epilepsy.
+- identifying a tonic clonic seizure (total body seizure)
+- identifying epilepsy.
+- monitoring sleep patterns
+- support for false positives via reset button
+
+Future directions include:
+- Utilizing a smartphone’s built-in accelerometer to capitalize on existing hardware market, thus saving costs and cutting development time
+- Integrating other sensors, such as heart rate monitor and muscle sensor for greater precision
+- Emphasizing design of product so as to incentivize more users to see it not solely as a medical/diagnosis product, but also as a stylistic one
+- Bluetooth connectivity to fire alarm at home to amplify emergency signal
 
 ###Motivation
 
