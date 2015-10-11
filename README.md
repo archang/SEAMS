@@ -19,3 +19,5 @@ Nonetheless, these solutions do not take into account the worry that constantly 
 
 We are working hard to ensure that SEAMS will cater to this necessary need, while also taking ordinarily auxillary matters, such as comfort and style, into serious consideration.
 
+###Contributors
+@archang, @naokiyokoyama, @jennycheung1217, @vkaran101
