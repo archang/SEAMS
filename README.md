@@ -19,5 +19,13 @@ Nonetheless, these solutions do not take into account the worry that constantly 
 
 We are working hard to ensure that SEAMS will cater to this necessary need, while also taking ordinarily auxillary matters, such as comfort and style, into serious consideration.
 
+###API Reference
+- Intel Edison
+- Sparknotes 9DOF module
+- Sparknotes Muscle Sensor v3
+- Parse back-end
+- Docker container
+- scikit-learn ML
+
 ###Contributors
 @archang, @naokiyokoyama, @jennycheung1217, @vkaran101
