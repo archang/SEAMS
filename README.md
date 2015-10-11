@@ -25,7 +25,7 @@ We are working hard to ensure that SEAMS will cater to this necessary need, whil
 - Sparknotes Muscle Sensor v3
 - Parse back-end
 - Docker container
-- scikit-learn ML
+- scikit-learn (logistic regression)
 
 ###Contributors
 @archang, @naokiyokoyama, @jennycheung1217, @vkaran101
